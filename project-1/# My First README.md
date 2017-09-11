@@ -5,7 +5,7 @@ My First ReadMe
 -----
 
 ## Summary
-This week I leanred about the interent, the world wide web, web development, web desing, a bit about HTML, CSS, and markdown. There was a lot of information that I am still absorbing about how this code works. It will be easier for me to articulate how HTML and CSS work as we begin to go further into it and I actually use it. I also took the creatuve coding class with Micheal Musick last semester so it was nice to have some fimilarity with atom and markdown and repractice those things used. 
+This week I leanred about the interent, the world wide web, web development, web desing, a bit about HTML, CSS, and markdown. There was a lot of information that I am still absorbing about how this code works. It will be easier for me to articulate how HTML and CSS work as we begin to go further into it and I actually use it. I also took the creatuve coding class with Micheal Musick last semester so it was nice to have some fimilarity with atom and markdown and repractice those things used.
 ### This Week
   1. I learned more about HTML and CSS
   2. I remembered how to use markdown
