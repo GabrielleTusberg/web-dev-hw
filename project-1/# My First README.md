@@ -13,7 +13,7 @@ This week I learned about the interent, the world wide web, web development, web
   3. I figured out how to install things onto my atom while my format was different then the videos
 
 #### Issues
-- It took me awhile to understand how to work the *web dev* page 
+- It took me awhile to understand how to work the *web dev* page
 - With the *Github* Repository I wasn't sure if I was commenting on another persons or if I needed to create another Issue on the __Issue tab__
 - At first I thought we only had one hw when I was figuring out how to understand the format of the web dev page
 
