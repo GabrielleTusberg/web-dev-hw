@@ -1,0 +1,42 @@
+
+/* The font code kept breaking so I gave up and just imported it */
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text');
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One|Libre+Barcode+39+Text');
+
+
+/*@font-face {
+    font-family: 'Monoton';
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+}*/
+
+/*
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('../fonts/Ubuntu-LightItalic.tff') format('opentype');
+    font-weight: light;
+    font-style: italic;
+}*/
+
+/*@font-face {
+    font-family: 'Ubuntu';
+    src: url('../fonts/Ubuntu-Regular.tff') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}*/
+
+/*@font-face {
+    font-family: 'Ubuntu';
+    src: url('../fonts/Ubuntu-Bold.tff') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlayfairDisplaySC';
+    src: url('../fonts/PlayfairDisplaySC-BoldItalic.tff') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}*/
