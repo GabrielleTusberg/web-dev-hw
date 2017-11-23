@@ -8,41 +8,64 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--Stylesheets-->
   <link rel="stylesheet" type="text/css" href="css/fonts.css">
-  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/style-index.css">
+  <link rel="stylesheet" type="text/css" href="css/style-about.css">
+  <link rel="stylesheet" type="text/css" href="css/style-contact.css">
+  <link rel="stylesheet" type="text/css" href="css/style-links.css">
+
+
   <!--Title-->
   <title>In Tune</title>
 </head>
 <body>
   <div class="main-content">
   <!--Header-->
-    <div id="header">
+    <div class="main-content-header">
       <h1>In Tune</h1>
-      <hr />
-      <h2>Song for the day</h2>
-      <p> <audio controls>
+      <h2 class="song-of-day">Song for the day</br>
+        <audio controls>
           <source src="../project-3/media/Too-Young.wav" />
           <source src="../project-3/media/Too-Young.flac" />
           <source src="../project-3/media/Too-Young.ogg" />
           <source src="../project-3/media/Too-Young.mp3" />
-      </audio></p>
-      <hr />
-    <div class="article">
-      <div id="nav">
-        <ul>
-        <li><a href="">Home</a></li>
-        <li><a href="">About</a></li>
-        <li><a href="">Contact</a></li>
-        <li><a href="">Sample</a></li>
-      </ul>
+      </audio></h2>
     </div>
     </div>
-    <div class="article">
-        <p>Feature</p>
-    </div>
-    <div class="article">
-        <p>Feature</p>
-    </div>
+    <!-- <div class=".menu-item">
+        <a href="" class="menu-item">Home</a>
+        <a href="" class="menu-item">About</a>
+        <a href="" class="menu-item">Contact</a>
+        <a href="" class="menu-item">Sample</a>
+      </div> -->
+
+      <menu>
+
+           <div class="side-menu-item">
+              <a href="#" class="side menuitem">
+                 About</a>
+
+              <div class="side dropdown">
+                 <a href="#" class="side menuitem">
+                    +Links</a>
+
+                 <div class="dropdown-content">
+                    <a href="#" class="side menuitem dropdown-item">
+                       Dance Musick</a>
+                    <a href="#" class="side menuitem dropdown-item">
+                       Moody Tunes</a>
+                    <a href="#" class="side menuitem dropdown-item">
+                       Weekly Suprise</a>
+                 </div>
+              </div>
+
+              <a href="#" class="side menuitem">
+                 Contact</a>
+           </div>
+        </menu>
+
+
   <div id="footer">
         <p>&copy; Copyright 2017</p>
   </div>
   </body>
+  </html>

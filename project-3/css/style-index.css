@@ -1,0 +1,99 @@
+/* Body Style Elements */
+body {
+  color: #ffffff;
+  text-align:center;
+}
+
+.main-content {
+  background-image: url(../images/Flower-Logo.png);
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-position: top center;
+  display: inline-block;
+  float: clear;
+  margin: auto;
+  margin-top: 0;
+  padding-top: 0;
+  padding-left: 0;
+  width: 85%;
+  background-color: #fff;
+  clear: both;
+  font-family: 'Monoton', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 100px;
+}
+
+.main-content-header {
+  background-color: #2f2b2b;
+  margin-top:0;
+  padding: 10px 0px 0px 0px;
+  opacity: .75;
+
+}
+   .song-of-day {
+    font-family: 'Monoton', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 40px;
+}
+  
+/*.article {
+  background-color: #ffffff;
+  margin-top:30px;
+  padding: 0px 0px 10px 0px;
+  display: inline-block;
+  width: 30%;
+  opacity: .75;
+
+}*/
+/*#nav, #feature, #footer, #header {*/
+
+.main-container menu {
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 25%;
+    height: 1000px;
+    background-color: #D3D7DA;
+}
+
+.side.menuitem {
+    display: block;
+    font-size: 1em;
+    font-weight: lighter;
+    padding: 0.5em;
+    margin: 0.1em 0;
+    text-decoration: none;
+    background-color: #2f2b2b;
+    opacity:.75;
+    color: #fff;
+}
+
+.side.menuitem:hover {
+    background-color: #b31d1d;
+    opacity:.75;
+    color: #fff;
+}
+
+.dropdown-content {
+    display: none;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.side.menuitem.dropdown-item {
+    font-size: 0.8em;
+    padding-left: 2em;
+    margin-top: 0.05em;
+    background-color: #b31d1d;
+    opacity:.75;
+    color: #fff;
+}
+
+.dropdown:hover .dropdown-content .side.menuitem.dropdown-item:hover {
+    background-color: #fff;
+    color: #27A2DE;
+}
