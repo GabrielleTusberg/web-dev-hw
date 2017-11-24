@@ -1,9 +1,9 @@
-body {
+/*body {
   color: #ffffff;
   text-align:center;
-}
+}*/
 
-.main-content-article {
+/*.main-content-article {
   font-family:'Barlow Semi Condensed', sans-serif;
   font-weight: normal;
   font-style: normal;
@@ -12,4 +12,62 @@ body {
   margin-top:0px;
   padding: 10px 0px 5px 0px;
   opacity: .75;
+}*/
+body {
+    font-size: 16pt;
+    font-family:  'Barlow Semi Condensed', sans-serif;
+    background-color: #ffffff;
+    padding: 0;
+    margin: 0;
+    color:white;
+
+}
+
+.main-container {
+    margin: auto;
+    margin-top: 0;
+    padding-top: 0;
+    width: 85%;
+    /*min-width: 600px;
+    max-width: 960px;*/
+    background-color: #F15F50;
+    opacity: .75;
+
+
+}
+
+.main-container h1 {
+    font-family:'Monoton', sans-serif;
+    text-align: center;
+    font-weight: 200;
+    letter-spacing: 0.4em;
+    word-spacing: 1em;
+    padding: 1em;
+    margin-top: 0 !important;
+    color: #fff;
+    background-color: #2f2b2b ;
+    /*border-radius: 20px;*/
+    padding: 100px 0px 100px 0px;
+    /*background-image: url(../images/Flower-Logo.png);
+    background-repeat: no-repeat;
+    background-size: 30%;*/
+    /*background-position: top center;
+    display: inline-block;*/
+    float: clear;
+    opacity:75;
+}
+.ref {
+        -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+}
+
+.main-container p {
+    padding: 1em 2em;
+    text-indent: 1.5em;
+    line-height: 1.5em;
+    text-align: justify;
 }

@@ -37,7 +37,7 @@ body {
     font-style: normal;
     font-size: 40px;
 }
-  
+
 /*.article {
   background-color: #ffffff;
   margin-top:30px;
@@ -71,7 +71,7 @@ body {
 }
 
 .side.menuitem:hover {
-    background-color: #b31d1d;
+    background-color: #F15F50;
     opacity:.75;
     color: #fff;
 }
@@ -88,7 +88,7 @@ body {
     font-size: 0.8em;
     padding-left: 2em;
     margin-top: 0.05em;
-    background-color: #b31d1d;
+    background-color: #F15F50;
     opacity:.75;
     color: #fff;
 }
