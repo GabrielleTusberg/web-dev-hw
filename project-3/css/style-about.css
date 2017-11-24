@@ -20,25 +20,23 @@ body {
     padding: 0;
     margin: 0;
     color:white;
-
 }
 
 .main-container {
     margin: auto;
     margin-top: 0;
     padding-top: 0;
-    width: 85%;
+    width: 90%;
     /*min-width: 600px;
     max-width: 960px;*/
     background-color: #F15F50;
     opacity: .75;
-
-
 }
 
 .main-container h1 {
     font-family:'Monoton', sans-serif;
     text-align: center;
+    font-size: 30px;
     font-weight: 200;
     letter-spacing: 0.4em;
     word-spacing: 1em;
@@ -70,4 +68,5 @@ body {
     text-indent: 1.5em;
     line-height: 1.5em;
     text-align: justify;
+
 }
