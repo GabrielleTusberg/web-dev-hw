@@ -1,3 +1,8 @@
+img, embed,
+object, video {
+  max-width:100%;
+}
+
 
 body {
   color: #ffffff;
@@ -64,10 +69,10 @@ body {
     font-style: normal;
     color: black;
     /*background-color: white;*/
-    background-image: url(../images/iphone.jpg);
+    /*background-image: url(../images/iphone.jpg);
     background-repeat: no no-repeat;
     width:722px
-    max-width: 100%;
+    max-width: 100%;*/
     /*opacity: .75;*/
     /*background-image:*/
 }
@@ -85,10 +90,10 @@ body {
   font-family: 'Open Sans', serif;
   font-style: normal;
   color: black;
-  background-image: url(../images/laptop.jpg);
+  /*background-image: url(../images/laptop.jpg);
   background-repeat: no-repeat;
   width:722px
-  max-width: 100%;
+  max-width: 100%;*/
     /*background-color: white;
     opacity: .75;*/
 
@@ -143,4 +148,8 @@ body {
     .green, .purple {
         width: 20%;
     }
+}
+img {
+  max-width: 100%;
+  height: auto;
 }
